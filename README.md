@@ -20,7 +20,8 @@ Spring Boot 기반 가구 쇼핑몰 웹 서비스로, 5인 팀 프로젝트에�
 - 역할 분담, 진행 상황 관리 및 프로젝트 통합
 
 [GitHub](https://github.com/Jiyoung100/mobilia-furniture-shop) ·
-[서비스](https://themobilia.shop/)
+[서비스](https://themobilia.shop/) ·
+[포트폴리오](mobilia_portfolio.pdf)
 
 ### DanceTalk | 댄스 커뮤니티(개인 프로젝트)
 교육과정에서 실습한 Q&A 게시판을 기반으로, 댄스 관련 정보를 공유하는 커뮤니티로 확장한 프로젝트입니다.
@@ -34,7 +35,8 @@ Spring Boot 기반 가구 쇼핑몰 웹 서비스로, 5인 팀 프로젝트에�
 - AWS Lightsail 배포 및 도메인·HTTPS 연결
 
 [GitHub](https://github.com/Jiyoung100/dancetalk) ·
-[서비스](https://jiyoungdev.cloud/)
+[서비스](https://jiyoungdev.cloud/) ·
+[포트폴리오](dancetalk_portfolio.pdf)
 
 ## 🛠️ 기술 스택
 
