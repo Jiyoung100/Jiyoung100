@@ -1,6 +1,6 @@
 <div align=center>
 
-# Jiyoung100 CODE
+# Jiyoung100 Developer
 
 사용자의 입장에서 생각하고, 필요한 기능을 구현하는 웹 개발자입니다.
 
@@ -9,8 +9,9 @@ Java와 Spring Boot를 중심으로 웹 개발을 공부하며,<br>
 
 ## 💻 프로젝트
 
-### MOBILIA | 가구 쇼핑몰(팀 프로젝트)
 <img width="1920" height="1080" alt="mobilia 메인 이미지" src="https://github.com/user-attachments/assets/49cb7089-946f-4d20-ba5c-841049479d98" />
+
+### MOBILIA | 가구 쇼핑몰 (팀 프로젝트)
 
 Spring Boot 기반 가구 쇼핑몰 웹 서비스로,<br>
 5인 팀 프로젝트에서 팀장을 담당했습니다.
@@ -28,8 +29,12 @@ Spring Boot 기반 가구 쇼핑몰 웹 서비스로,<br>
 [서비스](https://themobilia.shop/) ·
 [포트폴리오](mobilia_portfolio.pdf)
 
-### DanceTalk | 댄스 커뮤니티(개인 프로젝트)
-교육과정에서 실습한 Q&A 게시판을 기반으로, 댄스 관련 정보를 공유하는 커뮤니티로 확장한 프로젝트입니다.
+<img width="1920" height="1080" alt="dancetalk 메인 이미지" src="https://github.com/user-attachments/assets/abb847c2-ee0b-4d65-8053-8791208ca70b" />
+
+### DanceTalk | 댄스 커뮤니티 (개인 프로젝트)
+
+교육과정에서 실습한 Q&A 게시판을 기반으로,<br>
+댄스 관련 정보를 공유하는 커뮤니티로 확장한 프로젝트입니다.
 
 #### 주요 기능
 회원가입·로그인 및 게시글·답변·추천 기능<br>
