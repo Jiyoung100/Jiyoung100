@@ -10,6 +10,8 @@ Java와 Spring Boot를 중심으로 웹 개발을 공부하며,<br>
 ## 💻 프로젝트
 
 ### MOBILIA | 가구 쇼핑몰(팀 프로젝트)
+<img width="1920" height="1080" alt="mobilia 메인 이미지" src="https://github.com/user-attachments/assets/49cb7089-946f-4d20-ba5c-841049479d98" />
+
 Spring Boot 기반 가구 쇼핑몰 웹 서비스로,<br>
 5인 팀 프로젝트에서 팀장을 담당했습니다.
 
