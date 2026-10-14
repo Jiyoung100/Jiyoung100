@@ -1,6 +1,6 @@
 <div align=center>
 
-# Hi I'm Jiyoung 👋
+# Jiyoung100 CODE
 
 사용자의 입장에서 생각하고, 필요한 기능을 구현하는 웹 개발자입니다.
 
